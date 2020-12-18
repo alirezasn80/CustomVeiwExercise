@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="attr_custom_view_2">
+
+<!--        <attr name="height_bar" format="dimension"/>-->
+<!--        <attr name="width_bar" format="dimension"/>-->
+<!--        <attr name="amount" format="integer"/>-->
+<!--        <attr name="baseColor" format="color"/>-->
+<!--        <attr name="labelText" format="string"/>-->
+<!--        <attr name="labelTextSize" format="dimension"/>-->
+
+    </declare-styleable>
+</resources>
